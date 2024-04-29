@@ -1,6 +1,6 @@
 <!-- Dynamic typing effects -->
 <h1 align="center">
-  <a href="https://github.com/CODEPANDA-1122">
+  <a href="https://github.com/ayushisetiya">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=ccconsole.log(%22Hello%2C%20World!%22);AYUSH%20Wish%20you%20a%20happy%20day!&center=true&size=27">
   </a>
 </h1>
@@ -10,23 +10,22 @@
 
 <br>
 
-### Hi there, I'm Ayush Kumar Mishra 👋🏼👨🏻‍💻
+### Hi there, I'm Ayushi Setiya 👋🏼👨🏻‍💻
 
-[![Gmail Badge](https://img.shields.io/badge/-ayuhkmishra30@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ayuhkmishra30@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Ayush%20Kumar%20Mishra-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayushkmishra97/ "Connect on LinkedIn")
-[![Twitter Badge](https://img.shields.io/badge/-@ayushkmishra-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=AyushKmishra11 "Follow on Twitter")
-[![Whatsapp Badge](https://img.shields.io/badge/-Ayush-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/)
+[![Gmail Badge](https://img.shields.io/badge/-ayuhkmishra30@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ayushisetiya@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Ayush%20Kumar%20Mishra-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayushisetiya/ "Connect on LinkedIn")
+[![Whatsapp Badge](https://img.shields.io/badge/-Ayushi-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/)
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 
-I am a 2nd-year Undergaduate Student at [Pranveer Singh Institute of Tecnology](https://erp.psit.ac.in//), pursuing my Bachelors in Computer Science, who is passionate about Open Source :octocat:, Web Development :atom:, Artificial Intelligence 🤖, Machine Learning 👨‍💻 and Competitive Coding 📊. I love to learn new stuff related to tech and contribute in any and every possible way.
+I am a 3rd-year Undergaduate Student at [Pranveer Singh Institute of Tecnology](https://erp.psit.ac.in//), pursuing my Bachelors in Computer Science, who is passionate about Open Source :octocat:, Web Development :atom:, Artificial Intelligence 🤖, Machine Learning 👨‍💻 and Competitive Coding 📊. I love to learn new stuff related to tech and contribute in any and every possible way.
 
 - 🌱 I’m currently learning [Web Development](https://www.udemy.com/course/the-web-developer-bootcamp/) and [DSA](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
 - 👯 I’m looking to collaborate on any Web Development project which seems interesting or useful
 - 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between
-- 📫 How to reach me: Use any of the [badges](#hi-there-im-Ayush-Kumar-Mishra-) above
-- 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
+- 📫 How to reach me: Use any of the [badges](#hi-there-im-Ayushi-Setiya-) above
+- 😄 Pronouns: [She/Her](https://www.mypronouns.org/she-her)
 - 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
 
 ## Technologies⚙️
@@ -162,7 +161,7 @@ I am a 2nd-year Undergaduate Student at [Pranveer Singh Institute of Tecnology](
 
 <p>Visit my profile and give a ⭐️ if you like it</p>
 
-⭐️ From [Ayush Kumar Mishra](https://github.com/CODEPANDA-1122)
+⭐️ From [Ayushi Setiya](https://github.com/ayushisetiya)
 <br>
 <br>
 [![Profile last updated](https://img.shields.io/github/last-commit/CODEPANDA-1122/CODEPANDA-1122/main?label=Last%20updated&style=flat)](https://github.com/CODEPANDA-1122/CODEPANDA-1122/commits)  ![Profile Views](https://komarev.com/ghpvc/?username=CODEPANDA-1122l&color=blue)
