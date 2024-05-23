@@ -56,3 +56,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushisetiya&show_icons=true&locale=en" alt="ayushisetiya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushisetiya&" alt="ayushisetiya" /></p>
+
+<!-- Snake code contribution diagram -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/ayushisetiya/ayushisetiya/contribution-snake/github-contribution-grid-snake.svg" /></div>
