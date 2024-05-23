@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushisetiya&label=Profile%20views&color=0e75b6&style=flat" alt="ayushisetiya" /> </p>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=ccconsole.log(%22Hello%2C%20World!%22);AYUSHI%20Wish%20you%20a%20happy%20day!&center=true&size=27">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=ccconsole.log(%22Hello%2C%20World!%22);AYUSHI%20Wish%20you%20a%20happy%20day!&center=true&size=24">
 <!-- Coding Gif -->
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
 
