@@ -2,9 +2,8 @@
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
 
-[![Gmail Badge](https://img.shields.io/badge/-ayuhkmishra30@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ayushisetiya@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Ayush%20Kumar%20Mishra-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayushisetiya/ "Connect on LinkedIn")
-[![Whatsapp Badge](https://img.shields.io/badge/-Ayush-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/)
+[![Gmail Badge](https://img.shields.io/badge/-ayushisetiya@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ayushisetiya@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Ayushi%20Setiya-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayushisetiya/ "Connect on LinkedIn")
 
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);AYUSHI%20Wish%20you%20a%20happy%20day!&center=true&size=24">
