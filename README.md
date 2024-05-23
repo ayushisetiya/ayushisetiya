@@ -44,6 +44,11 @@
 <!-- Dynamic Quotes -->
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
 
+<!-- GitHub Trophy🏆 -->
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=CODEPANDA-1122&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
+
+<br>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushisetiya&show_icons=true&locale=en" alt="ayushisetiya" /></p>
 
