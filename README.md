@@ -41,6 +41,10 @@
 </div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushisetiya&show_icons=true&locale=en&layout=compact" alt="ayushisetiya" /></p>
 
+<!-- Dynamic Quotes -->
+<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushisetiya&show_icons=true&locale=en" alt="ayushisetiya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushisetiya&" alt="ayushisetiya" /></p>
